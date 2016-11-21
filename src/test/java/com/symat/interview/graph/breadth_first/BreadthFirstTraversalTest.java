@@ -17,12 +17,12 @@ import static org.junit.Assert.assertEquals;
 
 public class BreadthFirstTraversalTest {
 
-    public static final int NODE_A = 1;
-    public static final int NODE_B = 2;
-    public static final int NODE_C = 3;
-    public static final int NODE_D = 4;
-    public static final int NODE_E = 5;
-    public static final int NODE_F = 6;
+    private static final int NODE_A = 1;
+    private static final int NODE_B = 2;
+    private static final int NODE_C = 3;
+    private static final int NODE_D = 4;
+    private static final int NODE_E = 5;
+    private static final int NODE_F = 6;
 
     @Test
     public void shouldTraverseGraphWithSingleNode() throws Exception {
