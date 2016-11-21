@@ -4,7 +4,7 @@
                              http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.sb.interview</groupId>
+    <groupId>com.symat.interview</groupId>
     <artifactId>interview</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
