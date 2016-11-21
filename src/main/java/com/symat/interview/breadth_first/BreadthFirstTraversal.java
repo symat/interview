@@ -1,4 +1,4 @@
-package com.symat.interview.graph.breadth_first;
+package com.symat.interview.breadth_first;
 
 
 import java.util.HashSet;
