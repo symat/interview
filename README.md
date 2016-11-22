@@ -7,6 +7,6 @@ I try to produce clean code and not always looking for the most optimized soluti
 
 
 ## (evergrowing) content
-* Deep first traversal for an undirected graph (see: [test](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/deep_first), [implementation](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/deep_first))
-* Add two positive numbers represented by linked lists (see: [test](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/add_numbers_linked_list), [implementation](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/add_numbers_linked_list))
-* Boggle (find words in table of characters) (see: [test](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/boggle), [implementation](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/boggle))
+* Deep first traversal for an undirected graph (see: [test](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/deep_first), [implementation](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/deep_first))
+* Add two positive numbers represented by linked lists (see: [test](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/add_numbers_linked_list), [implementation](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/add_numbers_linked_list))
+* Boggle (find words in table of characters) (see: [test](https://github.com/symat/interview/tree/master/src/test/java/com/symat/interview/boggle), [implementation](https://github.com/symat/interview/tree/master/src/main/java/com/symat/interview/boggle))
