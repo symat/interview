@@ -1,4 +1,4 @@
-package com.symat.interview.breadth_first;
+package com.symat.interview.deep_first;
 
 
 import java.util.HashSet;
@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
-public class BreadthFirstTraversal {
+public class DeepFirstTraversal {
 
     public static List<Integer> traverse(final Graph graph, final int rootNode) {
         if (!graph.getAllNodes().contains(rootNode))

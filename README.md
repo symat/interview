@@ -5,6 +5,6 @@ Always check the tests first, the test is the actual specification.
 
 ## content
 
-* Breadth First Traversal for a Graph
+* Deep first traversal for an undirected graph
 * Add two positive numbers represented by linked lists
 * Boggle (find words in table of characters)

@@ -1,4 +1,4 @@
-package com.symat.interview.breadth_first;
+package com.symat.interview.deep_first;
 
 import org.junit.Test;
 
