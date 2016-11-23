@@ -5,7 +5,7 @@ import static java.lang.Integer.min;
 public class EditDistanceCalculator {
 
     // the solution below is a nice, recursive algorithm, but also it is an exponential one
-    // can we give a polynomial algorithm?
+    // can we you give a polynomial algorithm? (hint: use DP)
 
 
     public static int calculateDistance(final String sourceString, final String targetString) {
